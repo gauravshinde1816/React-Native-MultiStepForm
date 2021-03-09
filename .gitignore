@@ -1,0 +1,17 @@
+node_modules/**/*
+components/AppBar.js
+components/success.js
+components/Header.js
+components/Form.js
+.expo/*
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# macOS
+.DS_Store
